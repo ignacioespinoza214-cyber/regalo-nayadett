@@ -1,0 +1,16 @@
+REGALO PARA NAYADET ❤️
+
+Esta carpeta contiene la página completa.
+
+Para publicarla gratis:
+1. Crea una cuenta en GitHub.
+2. Crea un repositorio nuevo, por ejemplo: regalo-nayadet
+3. Sube TODOS los archivos y la carpeta fotos.
+4. En Settings > Pages, activa GitHub Pages usando la rama main y carpeta / (root).
+5. GitHub te dará una dirección https://... que será la dirección de tu regalo.
+6. Con esa dirección puedes generar el código QR.
+
+La canción usa el video oficial de YouTube de "Entre tú y yo" de Tu Corrido Mx.
+No se incluye el audio dentro del proyecto; al tocar el botón se abre/reproduce el video oficial.
+
+Importante: para que el QR funcione, primero hay que publicar la página y luego generar el QR con la URL final.
